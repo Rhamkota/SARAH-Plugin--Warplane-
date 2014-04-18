@@ -4,7 +4,7 @@ var exec = require('child_process').exec;
  
 switch(data.val) {
 	case "runwarplane":
-	  var process = '%CD%/plugins/warplane/ahk/Runwarplane.ahk';
+	  var process = '%CD%/plugins/warplane/Runwarplane.ahk';
 	  var tts = "c'est fait monsieur bon vol";
 	  break;
 	case "closewarplane":
