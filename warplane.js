@@ -8,7 +8,7 @@ switch(data.val) {
 	  var tts = "c'est fait monsieur bon vol";
 	  break;
 	case "closewarplane":
-	  var process = '%CD%/plugins/warplane/ahk/Closewarplane.ahk';
+	  var process = '%CD%/plugins/warplane/Closewarplane.ahk';
 	  var tts = "Combat terminé monsieur";
 	  break;  
   }    
