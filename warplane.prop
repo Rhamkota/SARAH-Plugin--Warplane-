@@ -1,0 +1,8 @@
+{
+  "modules": { 
+    "warplane": {
+      "description": "Actions AutoHotKey pour lancer le jeux watplane"
+      "version": "1.00"
+    }
+  }
+}
